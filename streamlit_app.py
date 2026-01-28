@@ -1,5 +1,4 @@
-
-   import streamlit as st
+import streamlit as st
 from st_supabase_connection import SupabaseConnection
 import pandas as pd
 
